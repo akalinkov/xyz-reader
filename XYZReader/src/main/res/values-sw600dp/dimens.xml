@@ -3,5 +3,13 @@
     <dimen name="detail_title_text_size">42sp</dimen>
     <dimen name="detail_body_text_size">20sp</dimen>
     <item name="detail_body_line_spacing_multiplier" format="float" type="fraction">1.3</item>
+    <dimen name="detail_body_margin_top">110dp</dimen>
     <dimen name="fab_margin">24dp</dimen>
+
+    <!-- list item -->
+    <dimen name="list_item_title_text_size">28sp</dimen>
+    <dimen name="list_item_subtitle_text_size">20sp</dimen>
+    <dimen name="list_item_subtitle_min_height">70dp</dimen>
+    <dimen name="list_item_title_min_height">70dp</dimen>
+    <dimen name="list_item_thumbnail_height">300dp</dimen>
 </resources>
